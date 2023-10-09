@@ -1,0 +1,14 @@
+room
+{
+    "Number_of_seats_available": 6,
+    "Amenities_in_room": "A/C or NON AC,Attached bathroom with heater,TV with cable,Dining options",
+    "Price_per_hour": 2000
+}
+
+Customer_Details
+{
+   "Customer_name": "Nilla",
+   "Booked_date": "07/09/2023",
+   "Entry_time": "05P.M",
+   "Exit_time": "08P.M"
+}
